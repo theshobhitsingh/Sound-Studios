@@ -16,7 +16,6 @@ populateVoiceList();
 if (speechSynthesis.onvoiceschanged !== undefined) {
      speechSynthesis.onvoiceschanged = populateVoiceList;
 }
-
 voiceSelect.addEventListener("change", () => {
      speech.voice = voices[voiceSelect.value];
 });
