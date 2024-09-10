@@ -1,5 +1,5 @@
 # Sound-Studios
- "Sound Studios: Transforming words into melody. Experience the power of text-to-speech conversion with ease and clarity."
+ ***Sound Studios***: Transforming words into melody. Experience the power of text-to-speech conversion with ease and clarity.
  
 ## Description
 Sound Studios is a web application that allows users to convert text into speech. It provides a simple and intuitive interface for users to input text and select various speech synthesis options.
